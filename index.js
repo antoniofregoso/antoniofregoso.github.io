@@ -5,10 +5,10 @@ let deck1 = new Reveal(document.querySelector( '.deck1' ), {
     animated: {
         'H1':{'animated':'backInDown'},
         'H2':{'animated':'bounceIn', 'repeat':'repeat-3'},
-        'P':{'animated':'fadeInUpBig'},
+        'P':{'animated':'fadeInUpBig', 'speed':'slower'},
         'UL':{'animated':'fadeInTopLeft'},
         'OL':{'animated':'jackInTheBox'},
-        'IMG':{'animated':'rotateIn'}
+        'IMG':{'animated':'rotateIn', 'speed':'fast', 'repeat':'infinite'}
     },
     plugins: [RevealAnimate]
 });
