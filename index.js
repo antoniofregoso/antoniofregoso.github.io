@@ -1,5 +1,5 @@
-import Reveal from './node_modules/reveal.js/dist/reveal.esm.js';
-import RevealAnimate from './node_modules/reveal.js-animate/animate.esm.js';
+import Reveal from './reveal.js/dist/reveal.esm.js';
+import RevealAnimate from './reveal.js-animate/animate.esm.js';
 
 let deck1 = new Reveal(document.querySelector( '.deck1' ), {
     animated: {
