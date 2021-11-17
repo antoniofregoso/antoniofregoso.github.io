@@ -10,4 +10,6 @@ Animate the childNodes of each slide identifying them by html tag (tagName). The
 - Speed: speed.
 - Times it is executed: repeat.
 
-Check out the [live demo](https://antoniofregoso.github.io/reveal.js-animate).
+
+1. Check out the [live demo](https://antoniofregoso.github.io/reveal.js-animate).
+2. Get de code [reveal.js-animate](https://github.com/antoniofregoso/reveal.js-animate).
