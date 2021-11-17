@@ -1,5 +1,5 @@
 ## Antonio Fregoso
-Enthusiast of innovation with Python and JavaScrip applied to companies. I like to develop with [Odoo 15](https://github.com/odoo/odoo), [Flask](https://flask.palletsprojects.com/en/2.0.x/) and chatbots with [rasa](https://rasa.com/).
+Enthusiast of innovation with Python and JavaScript applied to companies. I like to develop with [Odoo 15](https://github.com/odoo/odoo), [Flask](https://flask.palletsprojects.com/en/2.0.x/) and chatbots with [rasa](https://rasa.com/).
 
 These are my public collaborations:
 
