@@ -2,6 +2,7 @@ import Reveal from './reveal.js/dist/reveal.esm.js';
 import RevealAnimate from './reveal.js-animate/animate.esm.js';
 
 let deck1 = new Reveal(document.querySelector( '.deck1' ), {
+    hash: true,
     animated: {
         'H1':{'animated':'backInDown'},
         'H2':{'animated':'bounceIn', 'repeat':'repeat-3'},
